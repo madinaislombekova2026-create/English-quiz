@@ -1,0 +1,7 @@
+{
+  "name": "English Quiz",
+  "description": "Practice English grammar, vocabulary, reading, listening, writing, and educational games with interactive CEFR-aligned quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
